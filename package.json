@@ -93,7 +93,7 @@
 		"crowdin": "^3.4.2",
 		"csvjson": "^5.1.0",
 		"electron": "^10.3.0",
-		"electron-builder": "^22.9.1",
+		"electron-builder": "^24.13.3",
 		"mocha": "^7.1.1",
 		"shx": "^0.3.2",
 		"spectron": "^10.0.1"
